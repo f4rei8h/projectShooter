@@ -16,8 +16,8 @@ Overall, creating a shooter game on Python can be a fun and rewarding experience
 ### Downloading instructions: 
 If you downloading this project:
 
--It is nessesary to put folders 'img' and 'snd' in one single folder called 'Media". 
+- It is nessesary to put folders 'img' and 'snd' in one single folder called 'Media". 
 
--Files 'bg2.jpg' and 'shell.png' should be in this directory: 'Media' --> 'img'.
+- Files 'bg2.jpg' and 'shell.png' should be in this directory: 'Media' --> 'img'.
 
--Font file 'calibri.ttf' must stay in folder with 'MAIN.PY'  
+- Font file 'calibri.ttf' must stay in folder with 'MAIN.PY'  
